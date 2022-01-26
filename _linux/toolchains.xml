@@ -1,7 +1,7 @@
 <application>
   <component name="CPPToolchains" version="7">
     <toolchains detectedVersion="5">
-      <toolchain name="mulle-objc" toolSetKind="SYSTEM_UNIX_TOOLSET" customMakePath="ninja" customCCompilerPath="mulle-clang" debuggerKind="CUSTOM_GDB" customGDBPath="/opt/mulle-gdb/11.1.0.1/bin/mulle-gdb" />
+      <toolchain name="mulle-objc" toolSetKind="SYSTEM_UNIX_TOOLSET" customMakePath="gmake" customCCompilerPath="mulle-clang" debuggerKind="CUSTOM_GDB" customGDBPath="/opt/mulle-gdb/11.1.0.1/bin/mulle-gdb" />
       <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_GDB" />
     </toolchains>
   </component>
